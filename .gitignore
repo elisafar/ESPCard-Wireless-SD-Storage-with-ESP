@@ -1,0 +1,19 @@
+# Arduino specific files
+*.ino.cpp
+*.ino.d
+*.ino.o
+*.ino.cpp.d
+*.ino.d.o
+*.elf
+*.eeprom
+*.hex
+*.bin
+
+# Build and libraries folders
+/build/
+.libraries/
+
+# PlatformIO or Arduino CLI
+.vscode/
+.idea/
+*.platformio/
