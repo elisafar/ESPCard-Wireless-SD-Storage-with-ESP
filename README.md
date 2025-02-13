@@ -1,4 +1,4 @@
-#🚀 ESPCard Project
+🚀 ESPCard Project
 
 ESPCard is an ESP8266-based project that enables data transfer to an SD card over an access point.
 
@@ -12,11 +12,11 @@ ESPCard is an ESP8266-based project that enables data transfer to an SD card ove
 
 🔄 Open for improvements and modifications
 
-#🛠️ Getting Started
+🛠️ Getting Started
 
 Upload the code to your ESP8266 using Arduino IDE or PlatformIO. 🚀
 
-#🚀 Possible Improvements
+🚀 Possible Improvements
 
 🕒 Fix incorrect date issue for transferred files
 
@@ -26,6 +26,6 @@ Upload the code to your ESP8266 using Arduino IDE or PlatformIO. 🚀
 
 🔒 Additional features like file management or encryption
 
-#🤝 Contribution
+🤝 Contribution
 
 Feel free to contribute by submitting issues or pull requests! 🎉
